@@ -1,4 +1,4 @@
-Class Owner
+class Owner
 	def name
 		name = 'Shiju K Babu'
 	end
